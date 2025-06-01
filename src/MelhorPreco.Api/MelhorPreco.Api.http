@@ -1,0 +1,6 @@
+@MelhorPreco.Api_HostAddress = http://localhost:5185
+
+GET {{MelhorPreco.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
