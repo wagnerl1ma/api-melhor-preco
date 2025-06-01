@@ -95,4 +95,6 @@ Abra uma issue para reportar bugs ou sugerir melhorias.
 
 Este projeto está licenciado sob a licença MIT.
 
----
+```bash
+# clonar repositório
+git clone https://github.com/wagnerl1ma/api-melhor-preco.git
