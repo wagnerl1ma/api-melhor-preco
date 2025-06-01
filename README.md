@@ -91,11 +91,11 @@ Abra uma issue para reportar bugs ou sugerir melhorias.
 
 ---
 
-## 📜 Licença
-
-Este projeto está licenciado sob a licença MIT.
-
 ## 💻 Clone o repositório:
 ```bash
 git clone https://github.com/wagnerl1ma/api-melhor-preco.git
 ```
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença MIT.
